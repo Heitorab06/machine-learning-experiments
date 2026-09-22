@@ -149,11 +149,8 @@ Additional datasets will be introduced later to apply the concepts to more reali
 machine-learning-experiments/
 │
 ├── experiments.ipynb
-├── experiments.csv
+├── experiments_history.csv
 ├── README.md
-│
-└── data/
-    └── ...
 ```
 
 ## Roadmap
